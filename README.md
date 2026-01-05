@@ -21,7 +21,7 @@
 <table border="0">
   <tr>
     <td width="300">
-      <img src="https://via.placeholder.com/300x150/1a1a1a/ffffff?text=Tienda+RisedFromAshes" width="100%" alt="RisedFromAshes" />
+      <img src="./img/Logo_Completo.png" width="100%" alt="Imagen logo RisedFromAshes"/>
     </td>
     <td>
       <h3>🛍️ Tienda RisedFromAshes</h3>
