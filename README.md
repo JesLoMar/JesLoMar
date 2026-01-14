@@ -35,7 +35,7 @@
                 <img src="https://via.placeholder.com/300x150/1a1a1a/ffffff?text=Soluciones+Web" width="100%" alt="Soluciones Web" />
             </td>
             <td>
-                <h3>Soluciones WEB (Freelance)</h3>
+                <h3>Punto Martínez (Soluciones web - Freelance)</h3>
                 <p>Plataforma de servicios web para PYMES. Ofrezco creación de sitios competitivos con gestión integral de dominios y hosting, facilitando la digitalización de pequeños negocios.</p>
                 <p>
                     <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white" />
