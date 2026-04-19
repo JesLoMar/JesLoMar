@@ -32,7 +32,7 @@
         </tr>
         <tr>
             <td width="300">
-                <img src="https://via.placeholder.com/300x150/1a1a1a/ffffff?text=Soluciones+Web" width="100%" alt="Soluciones Web" />
+                <img src="./img/IconoPuntoMartinez.png" width="100%" alt="Soluciones Web" />
             </td>
             <td>
                 <h3>Punto Martínez (Soluciones web - Freelance)</h3>
