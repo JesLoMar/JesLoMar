@@ -15,7 +15,7 @@
     <table border="0">
         <tr>
             <td width="300">
-                <img src="./img/Logo_Millete.png" width="100%" alt="Logo Millete" onerror="this.src='https://via.placeholder.com/300x150/1a1a1a/ffffff?text=Millete+App'"/>
+                <img src="./img/Millete-Logoremovebg.png" width="100%" alt="Logo Millete" onerror="this.src='https://via.placeholder.com/300x150/1a1a1a/ffffff?text=Millete+App'"/>
             </td>
             <td>
                 <h3>Millete</h3>
